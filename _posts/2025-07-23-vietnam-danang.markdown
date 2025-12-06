@@ -4,7 +4,7 @@ subtitle: "surf, beer, night"
 author: "성빈"
 avatar: "img/authors/lol.jpg"
 image: "img/aa.jpg"
-date:   2025-07-23 12:12:12
+date: 2025-07-23 12:12:12
 ---
 
 ### 룰루랄라
