@@ -17,7 +17,7 @@ date:   2025-07-23 12:12:12
 수박주스를 하나 먹으면 숙소에 도착한다.  
 숙소에 도착하면 점심을 먹으러 나간다.  
 맥주가 빠질 수 없다.  
-<img src="img/1.jpg" alt="점심 맥주" style="width: 70%; display: block; margin: 0 auto;">
+<img src="img/1.jpg" alt="점심 맥주" style="width: 400px; display: block; margin: 0 auto;">
 점심을 먹고 간단하게 산책을 해준 뒤  
 시내로 나가서 구경을 하거나 쇼핑을 한다.  
 끝나면 저녁을 먹고  
