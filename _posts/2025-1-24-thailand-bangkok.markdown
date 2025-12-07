@@ -3,7 +3,7 @@ title:  "Bangkok, Thailand"
 subtitle: "먹부림"
 author: "성빈"
 avatar: "img/authors/lol.jpg"
-image: "img/aa.jpg"
+image: "img/cc.jpg"
 date:   2025-01-24 12:12:12
 ---
 
