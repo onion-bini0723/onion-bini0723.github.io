@@ -1,5 +1,5 @@
 ---
-title:  "Vietnam, Danang"
+title:  "Danang, Vietnam"
 subtitle: "surf, beer, night"
 author: "성빈"
 avatar: "img/authors/lol.jpg"
