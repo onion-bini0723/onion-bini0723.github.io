@@ -1,5 +1,5 @@
 ---
-title:  "Thailand, Bangkok"
+title:  "Bangkok, Thailand"
 subtitle: "먹부림"
 author: "성빈"
 avatar: "img/authors/lol.jpg"
