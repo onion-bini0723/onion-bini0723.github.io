@@ -7,8 +7,6 @@ image: "/img/cc.jpg"
 date:   2025-01-24 12:12:12
 ---
 
-<img src="/img/cc.jpg" alt="방콕 사진" style="width: 600px; display: block; margin: 0 auto;">
-
 ### 가져간 돈은 전부 먹는데 사용합니다.
 먹는게 남는것이죠.  
 원없이 먹고 마시고 놀았습니다.  
