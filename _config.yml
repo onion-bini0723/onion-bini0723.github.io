@@ -3,5 +3,5 @@ title: 박성빈의 비망록
 description: 비망록
 keywords: Modern, Blogging, Fun
 author: Wferr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: ""
+url: ""
